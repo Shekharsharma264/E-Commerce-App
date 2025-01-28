@@ -13,7 +13,7 @@ const About = () => {
         <img className="w-full md:max-w-[450px]" src={assets.about_img} />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
           <p>
-            Welcome to [Your Brand Name], your ultimate destination for stylish,
+            Welcome to Shekhar Street Styles, your ultimate destination for stylish,
             high-quality clothing that fits your lifestyle. We’re more than just
             a clothing store – we’re a community of fashion enthusiasts
             committed to helping you express your unique personality through

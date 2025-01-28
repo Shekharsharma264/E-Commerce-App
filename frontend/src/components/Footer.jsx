@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='flex flex-col justify-between gap-4 sm:flex-row my-14'>
         <div>
-            <img className='mb-2 w-36' src={assets.logo}/>
+            <img className='mb-2 w-36' src={assets.myLogo}/>
             <p className='text-sm'>We are dedicated to providing high-quality products that cater to your unique style. Our mission is to make shopping easy, enjoyable, and accessible for everyone.</p>
         </div>
         <div>

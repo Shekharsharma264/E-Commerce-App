@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between py-5 font-medium">
       <Link to="/">
-        <img src={assets.logo} className="w-36" />
+        <img src={assets.myLogo} className="w-36 rounded-lg transition-transform duration-300 ease-in-out hover:scale-110" />
       </Link>
 
       <ul className="hidden sm:flex gap-5 text-sm text-gray-70">
