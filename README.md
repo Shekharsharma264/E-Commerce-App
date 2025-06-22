@@ -34,6 +34,8 @@ npm install
 Run the project:
 npm run dev
 
+## Live Preview/Deploy - https://shekharstreetstyles.netlify.app/
+
 ## 🙋‍♂️ Author
 # Chandrashekhar Sharma
 
